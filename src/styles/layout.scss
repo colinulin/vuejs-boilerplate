@@ -1,0 +1,26 @@
+/**
+ * Cards
+ *
+ */
+
+.card-flag {
+    color: #fff;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 1px 5px;
+    background: #000;
+    border-top-left-radius: calc(0.25rem - 1px);
+    border-bottom-right-radius: calc(0.25rem - 1px);
+    font-size: 14px;
+
+    &.card-flag-article {
+        background-color: $primary-color;
+    }
+    &.card-flag-task {
+        background-color: $info-color;
+    }
+    &.card-flag-mentalhealth {
+        background-color: $success-color;
+    }
+}

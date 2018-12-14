@@ -1,0 +1,14 @@
+/**
+ * Navigation Styles
+ *
+ */
+
+.navigation {
+    .dropdown {
+        &:hover {
+            .dropdown-menu {
+                display: block;
+            }
+        }
+    }
+}
