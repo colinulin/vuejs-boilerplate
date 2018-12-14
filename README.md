@@ -1,6 +1,6 @@
 # VueJS Boilerplate
 
-> A subscription cost divider
+> A VueJS Boilerplate with Axios, vue-router, SCSS, and Vue Bootstrap.
 
 ## Build Setup
 
